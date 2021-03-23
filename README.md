@@ -21,7 +21,7 @@ Reasons for removing defaults include:
 | `ctrl+shift+up/down` | same as `shift+up/down` | CodeMirror ignores the `ctrl` |
 
 
-## Caveats ⚠
+## caveats ⚠
 
 I am a javascript beginner. Please use the plugin with caution. Since it does not access note content, your data should be safe.
 
