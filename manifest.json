@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-koncham-undefault-hotkeys",
+	"name": "koncham undefault hotkeys",
+	"version": "0.0.1",
+	"minAppVersion": "0.11.7",
+	"description": "unset some default CodeMirror hotkeys",
+	"author": "mano",
+	"authorUrl": "https://github.com/manogna4",
+	"isDesktopOnly": true
+}
