@@ -1,5 +1,5 @@
 {
-  "name": "koncham-undefault-hotkeys",
+  "name": "obsidian-koncham-undefault-hotkeys",
   "version": "0.0.1",
   "description": "unset some default CodeMirror hotkeys",
   "main": "main.js",
