@@ -2,6 +2,11 @@
 
 This is a plugin for [Obsidian](https://obsidian.md)
 
+update as of '2021-03-31':\
+the latest version of obsidian (0.11.10) does not require this plugin since it's been handled in the core.
+
+I am leaving this repo here as a record
+
 ## what does it do?
 
 CodeMirror sets [default hotkeys](https://codemirror.net/doc/manual.html#commands) that cannot be re-allocated using the Obsidian UI.
